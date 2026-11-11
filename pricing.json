@@ -1,0 +1,80 @@
+[
+ {
+  "title": "Proofhand",
+  "id": "prod_j6K6izRdwf9BN",
+  "plans": [
+   {
+    "price": 0.0,
+    "cur": "USD",
+    "kind": "one_time",
+    "period": null,
+    "url": "https://whop.com/checkout/plan_SwfArT3JFz5i7"
+   }
+  ]
+ },
+ {
+  "title": "Proofhand Enterprise",
+  "id": "prod_NycvFNe5O2zUl",
+  "plans": [
+   {
+    "price": 299.0,
+    "cur": "USD",
+    "kind": "renewal",
+    "period": 30,
+    "url": "https://whop.com/checkout/plan_Z3ZykM37fIu6E"
+   }
+  ]
+ },
+ {
+  "title": "Proofhand AgentPass Pro",
+  "id": "prod_HXgn8CwaOuhef",
+  "plans": [
+   {
+    "price": 99.0,
+    "cur": "USD",
+    "kind": "renewal",
+    "period": 30,
+    "url": "https://whop.com/checkout/plan_RKiOkAV8VJuc8"
+   }
+  ]
+ },
+ {
+  "title": "Proofhand Hardware Gateway Pro",
+  "id": "prod_4KUygjdCRQoTP",
+  "plans": [
+   {
+    "price": 149.0,
+    "cur": "USD",
+    "kind": "renewal",
+    "period": 30,
+    "url": "https://whop.com/checkout/plan_K1al5PKpXXcuN"
+   }
+  ]
+ },
+ {
+  "title": "Proofhand IntegrityRuntime Pro",
+  "id": "prod_p9KiQV0HiyAqY",
+  "plans": [
+   {
+    "price": 49.0,
+    "cur": "USD",
+    "kind": "renewal",
+    "period": 30,
+    "url": "https://whop.com/checkout/plan_PkURo5bTOqjNk"
+   }
+  ]
+ },
+ {
+  "title": "Proofhand Free",
+  "id": "prod_5afUtdftzcNry",
+  "plans": [
+   {
+    "price": 0.0,
+    "cur": "USD",
+    "kind": "one_time",
+    "period": null,
+    "url": "https://whop.com/checkout/plan_Dethau2rAIceK"
+   }
+  ]
+ }
+]

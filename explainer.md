@@ -4,7 +4,7 @@
 
 Proofhand is a CAPTCHA replacement: the visitor's browser solves a small proof-of-work challenge silently, the form carries a token, and the server verifies it once with a call shaped like reCAPTCHA's siteverify.
 
-It is built and run by Jacaranda Labs in Harare, Zimbabwe. Live: https://attestos.whop.site
+It is built and run by Coldcode SI Labs in Harare, Zimbabwe. Live: https://attestos.whop.site
 
 ## The short answer
 
@@ -81,6 +81,6 @@ It asks nothing of the visitor beyond submitting the form, so there is no visual
 
 ## Where this comes from
 
-Figures and prices are generated from Proofhand's live billing table and published at https://attestos.jacaranda-labs-v2.workers.dev/facts.json, which is the authoritative copy.
+Figures and prices are generated from Proofhand's live billing table and published at https://attestos-v2.proofhand.workers.dev/facts.json, which is the authoritative copy.
 
-_Jacaranda Labs, Harare, Zimbabwe._
+_Coldcode SI Labs, Harare, Zimbabwe._
